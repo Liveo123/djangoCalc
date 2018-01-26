@@ -1,0 +1,17 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+AUTH_PASSWORD_VALIDATORS	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	v	language:Python
+BASE_DIR	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	v	language:Python
+DATABASES	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^DATABASES = {$/;"	v	language:Python
+DEBUG	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^DEBUG = True$/;"	v	language:Python
+INSTALLED_APPS	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^INSTALLED_APPS = [$/;"	v	language:Python
+LANGUAGE_CODE	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	v	language:Python
+MIDDLEWARE	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^MIDDLEWARE = [$/;"	v	language:Python
+os	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^import os$/;"	i	language:Python
+ROOT_URLCONF	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^ROOT_URLCONF = 'mysite.urls'$/;"	v	language:Python
+STATIC_URL	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^STATIC_URL = '\/static\/'$/;"	v	language:Python
+TEMPLATES	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^TEMPLATES = [$/;"	v	language:Python
+TIME_ZONE	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^TIME_ZONE = 'UTC'$/;"	v	language:Python
+USE_I18N	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^USE_I18N = True$/;"	v	language:Python
+USE_L10N	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^USE_L10N = True$/;"	v	language:Python
+USE_TZ	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^USE_TZ = True$/;"	v	language:Python
+WSGI_APPLICATION	/Users/Jimini/Library/Mobile Documents/com~apple~CloudDocs/3. Personal/3. Projects/Python/djangoCalc/mysite/mysite/settings.py	/^WSGI_APPLICATION = 'mysite.wsgi.application'$/;"	v	language:Python
